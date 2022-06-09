@@ -31,8 +31,8 @@ idea of how a real Web server works. *Use for instructional purposes only*.
 
 1. Compile and run Tiny
 ````
-git clone https://github.com/Alighorab/Proxy-Server/
-cd Proxy-Server/tiny
+git clone https://github.com/Alighorab/Tiny-Web-Server/
+cd Tiny-Web-Server
 make
 ./tiny <port> (e.g., 8000)
 ````
